@@ -10,12 +10,16 @@ _Synonyms: sorceress, witch, fairy_
 
 [![Mary's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maryvitoria002&theme=react-dark&point=EA64FA&hide_border=true&bg_color=0000&line=EB64FA&title_color=EB64FA&color=EB64FA)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div display="inline-block">
+  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=maryvitoria002&bg_color=0000&hide_border=true&text_color=EB64FA&ring_color=EB64FA&title_color=EB64FA" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryvitoria002&layout=compact&langs_count=8&card_width=430&bg_color=0000&hide_border=true&text_color=EB64FA&title_color=EB64FA" />
 </a>
+
+</div>
 
  ## 🎀 Learning
  <div display="inline-block" align="">    
