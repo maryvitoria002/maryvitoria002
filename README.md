@@ -66,13 +66,10 @@
 
 <div align="center">
 
-  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:nascrafaela08@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/rafaelans0)
-  [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/rafaela_dev)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5516993578168)
-  [![Twitch](https://img.shields.io/badge/Twitch-2e3440?style=for-the-badge&logo=twitch&logoColor=fff)](https://www.twitch.tv/rafaelans)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/rafaela-nascimento-sant-ana-0595251a2/)
-  [![TikTok](https://img.shields.io/badge/Reddit-2e3440?style=for-the-badge&logo=Reddit&logoColor=fff)](https://www.tiktok.com/@rafaelans00)
+  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:maryvitoria054@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/mary_nada_mais)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/mary-vitoria-501006340/)
+  [![TikTok](https://img.shields.io/badge/Reddit-2e3440?style=for-the-badge&logo=Reddit&logoColor=fff)](https://www.tiktok.com/@souassado)
   
   
 </div>
@@ -81,10 +78,10 @@
 
 <p align="center">
       <samp>
-        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
-        <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
-        <a href="https://bykamillyvm.carrd.co/">carrd.co</a> ⊹
-        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
+        ♡ <a href="https://rentry.co/">rentry</a> ⊹
+        <a href="https://linktr.ee/">linktr.ee</a> ⊹
+        <a href="https://.carrd.co/">carrd.co</a> ⊹
+        <a href="https://">notion</a> ♡
       </samp>
   </p>
 
