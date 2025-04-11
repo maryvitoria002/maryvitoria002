@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff90ab"/>
 
 <div align="center">
   <samp>
@@ -23,7 +23,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=Eu+sou+da+Bahia;Estudante+de+Informática;Namorada+de+Bruno;Seja+bem-vindo!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=fffff&width=900&size=21&center=true&lines=Eu+sou+da+Bahia;Estudante+de+Informática;Namorada+de+Bruno;Seja+bem-vindo!" alt="Typing SVG"/>
 </div>
 
 <br>
