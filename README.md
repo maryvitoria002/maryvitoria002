@@ -23,7 +23,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=fffff&width=900&size=21&center=true&lines=Eu+sou+da+Bahia;Estudante+de+Informática;Namorada+de+Bruno;Seja+bem-vindo!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ff90ab&width=900&size=21&center=true&lines=Eu+sou+da+Bahia;Estudante+de+Informática;Namorada+de+Bruno;Seja+bem-vindo(a)!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -37,10 +37,10 @@
 <div display="inline-block">
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=maryvitoria002&bg_color=0000&hide_border=true&text_color=EB64FA&ring_color=EB64FA&title_color=EB64FA" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=maryvitoria002&bg_color=0000&hide_border=true&text_color=EB64FA&ring_color=EB64FA&title_color=ff90ab" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=110 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryvitoria002&layout=compact&langs_count=8&card_width=430&bg_color=0000&hide_border=true&text_color=EB64FA&title_color=EB64FA" />
+  <img height=110 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryvitoria002&layout=compact&langs_count=8&card_width=430&bg_color=0000&hide_border=true&text_color=EB64FA&title_color=ff90ab" />
 </a>
 
 </div>
