@@ -23,7 +23,7 @@
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9BA4B5&size=35&center=true&vCenter=true&width=1000&lines=Eu+sou+da+Bahia;Estudante+de+Informática;Namorada+de+Bruno;Seja+bem-vindo(a)!)] (https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9BA4B5&size=35&center=true&vCenter=true&width=1000&lines=Eu+sou+da+Bahia;Estudante+de+Informática;Namorada+de+Bruno;Seja+bem-vindo(a)!)](https://git.io/typing-svg)
 
 
 <br>
