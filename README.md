@@ -23,7 +23,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ff90ab&width=900&size=21&center=true&lines=Eu+sou+da+Bahia;Estudante+de+Informática;Namorada+de+Bruno;Seja+bem-vindo(a)!" alt="Typing SVG"/>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9BA4B5&size=35&center=true&vCenter=true&width=1000&lines=Eu+sou+da+Bahia;Estudante+de+Informática;Namorada+de+Bruno;Seja+bem-vindo(a)!)] (https://git.io/typing-svg)
 </div>
 
 <br>
