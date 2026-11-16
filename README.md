@@ -65,6 +65,14 @@
 
 </div>
 
+
+
+<div align="center">
+
+
+
+##
+
 <div align="center">
 
   [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:maryvitoria054@gmail.com)
@@ -73,19 +81,6 @@
   
   
 </div>
-
-<div align="center">
-
-<p align="center">
-      <samp>
-        ♡ <a href="https://rentry.co/">rentry</a> ⊹
-        <a href="https://linktr.ee/">linktr.ee</a> ⊹
-        <a href="https://.carrd.co/">carrd.co</a> ⊹
-        <a href="https://">notion</a> ♡
-      </samp>
-  </p>
-
-##
 
 </details>
 
