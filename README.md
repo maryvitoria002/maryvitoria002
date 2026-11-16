@@ -3,7 +3,7 @@
 <div align="center">
   <samp>
     <b>
-      コンピュータ技術者
+      Técnico em Informática
       <br>
       Olá, meu nome é Mary!
       <br>
