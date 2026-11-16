@@ -17,9 +17,7 @@
 <div align="center">
   <img src="https://imgur.com/zeuHIk9.gif" width="200">
 </div>
-<div align="center">
-  <img src="https://img.shields.io/badge/meow_♡-black" />
-</div>
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9BA4B5&size=35&center=true&vCenter=true&width=1000&lines=Eu+sou+da+Bahia;Estudante+de+Informática;Seja+bem-vindo(a)!)](https://git.io/typing-svg)
