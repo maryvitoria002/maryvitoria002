@@ -71,6 +71,9 @@
 
 ##
 
+
+</details>
+
 <div align="center">
 
   [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:maryvitoria054@gmail.com)
@@ -80,7 +83,6 @@
   
 </div>
 
-</details>
 
 <br>
 <br>
