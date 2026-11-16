@@ -38,7 +38,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryvitoria002&layout=compact&langs_count=8&card_width=430&bg_color=0000&hide_border=true&text_color=FFFFFF&title_color=ff90ab" />
 </a>
 
 </div>
@@ -62,12 +61,15 @@
 
 <br>
 
+
+
+</div>
+
 <div align="center">
 
   [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:maryvitoria054@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/mary_nada_mais)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/mary-vitoria-501006340/)
-  [![TikTok](https://img.shields.io/badge/Reddit-2e3440?style=for-the-badge&logo=Reddit&logoColor=fff)](https://www.tiktok.com/@souassado)
   
   
 </div>
@@ -82,8 +84,6 @@
         <a href="https://">notion</a> ♡
       </samp>
   </p>
-
-</div>
 
 ##
 
